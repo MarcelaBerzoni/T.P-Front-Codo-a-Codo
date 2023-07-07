@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+body{
+   font-family: 'Poppins', sans-serif;
+}
+                
+
+.header {
+   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../assets/img/hawaii.jpg);
+   background-size: cover;
+   height: 800px;
+   background-position: center;
+
+   
+}
+.bg{
+    background: rgb(53, 58, 64);
+}
+
+a {
+   color: rgb(247, 241, 241);
+   text-decoration: none;
+   padding: 5px;
+}
+
+.green{
+    background-color:yellowgreen;
+}
+
+footer {
+    background-color: rgb(20, 70, 90);
+}
